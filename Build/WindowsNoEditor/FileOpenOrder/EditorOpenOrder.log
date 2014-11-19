@@ -1,0 +1,1450 @@
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/TARProject.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 3
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 4
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 5
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 6
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 7
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 8
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 9
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 10
+"../../../Engine/Plugins/Editor/PluginsEditor/PluginsEditor.uplugin" 11
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 12
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 13
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 14
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 15
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 16
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 17
+"../../../Engine/Plugins/Experimental/SteamVR/SteamVR.uplugin" 18
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 19
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 20
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 21
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 22
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 23
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 24
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 25
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 26
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 27
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 28
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 29
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 30
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 31
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 32
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 33
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 34
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 35
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 36
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 37
+"../../../Engine/Plugins/Runtime/TwitchLiveStreaming/TwitchLiveStreaming.uplugin" 38
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 39
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 40
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 41
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 42
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 43
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\cnvalias.icu" 44
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\res_index.res" 45
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\ucadata.icu" 46
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\nfc.nrm" 47
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\de.res" 48
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\root.res" 49
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\de.res" 50
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pool.res" 51
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\root.res" 52
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\numberingSystems.res" 53
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\supplementalData.res" 54
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pool.res" 55
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\de.res" 56
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\root.res" 57
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_US.res" 58
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en.res" 59
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\plurals.res" 60
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\windowsZones.res" 61
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zoneinfo64.res" 62
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\keyTypeData.res" 63
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\timezoneTypes.res" 64
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\likelySubtags.res" 65
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\supplementalData.res" 66
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\de_DE.res" 67
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\de_AT.res" 68
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\de_BE.res" 69
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\de_CH.res" 70
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\de_CH.res" 71
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\de_LI.res" 72
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\de_LU.res" 73
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\de_LU.res" 74
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\en.res" 75
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en.res" 76
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_001.res" 77
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_001.res" 78
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_150.res" 79
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GB.res" 80
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_150.res" 81
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_GB.res" 82
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_AG.res" 83
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_AG.res" 84
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_AI.res" 85
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_AI.res" 86
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_AS.res" 87
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_AU.res" 88
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_AU.res" 89
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_BB.res" 90
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_BB.res" 91
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_BE.res" 92
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_BE.res" 93
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_BM.res" 94
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_BM.res" 95
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_BS.res" 96
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_BS.res" 97
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_BW.res" 98
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_BW.res" 99
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_BZ.res" 100
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_BZ.res" 101
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_CA.res" 102
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_CA.res" 103
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_CC.res" 104
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_CC.res" 105
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_CK.res" 106
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_CK.res" 107
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_CM.res" 108
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_CM.res" 109
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_CX.res" 110
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_CX.res" 111
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_DG.res" 112
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_DG.res" 113
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_DM.res" 114
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_DM.res" 115
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_ER.res" 116
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_ER.res" 117
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_FJ.res" 118
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_FJ.res" 119
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_FK.res" 120
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_FK.res" 121
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_FM.res" 122
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_FM.res" 123
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GD.res" 124
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_GD.res" 125
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GG.res" 126
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_GG.res" 127
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GH.res" 128
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_GH.res" 129
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GI.res" 130
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_GI.res" 131
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GM.res" 132
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_GM.res" 133
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GU.res" 134
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_GY.res" 135
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_GY.res" 136
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_HK.res" 137
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_HK.res" 138
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_IE.res" 139
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_IE.res" 140
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_IM.res" 141
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_IM.res" 142
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_IN.res" 143
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_IN.res" 144
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_IO.res" 145
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_IO.res" 146
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_JE.res" 147
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_JE.res" 148
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_JM.res" 149
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_JM.res" 150
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_KE.res" 151
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_KE.res" 152
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_KI.res" 153
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_KI.res" 154
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_KN.res" 155
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_KN.res" 156
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_KY.res" 157
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_KY.res" 158
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_LC.res" 159
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_LC.res" 160
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_LR.res" 161
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_LR.res" 162
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_LS.res" 163
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_LS.res" 164
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MG.res" 165
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_MG.res" 166
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MH.res" 167
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MO.res" 168
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_MO.res" 169
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MP.res" 170
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MS.res" 171
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_MS.res" 172
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MT.res" 173
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_MT.res" 174
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MU.res" 175
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_MU.res" 176
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_MW.res" 177
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_MW.res" 178
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_NA.res" 179
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_NA.res" 180
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_NF.res" 181
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_NF.res" 182
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_NG.res" 183
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_NG.res" 184
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_NR.res" 185
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_NR.res" 186
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_NU.res" 187
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_NU.res" 188
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_NZ.res" 189
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_NZ.res" 190
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_PG.res" 191
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_PG.res" 192
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_PH.res" 193
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_PH.res" 194
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_PK.res" 195
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_PK.res" 196
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_PN.res" 197
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_PN.res" 198
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_PR.res" 199
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_PW.res" 200
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_PW.res" 201
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_RW.res" 202
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_RW.res" 203
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SB.res" 204
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SB.res" 205
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SC.res" 206
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SC.res" 207
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SD.res" 208
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SD.res" 209
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SG.res" 210
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SG.res" 211
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SH.res" 212
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SH.res" 213
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SL.res" 214
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SL.res" 215
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SS.res" 216
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SS.res" 217
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SX.res" 218
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SX.res" 219
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_SZ.res" 220
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_SZ.res" 221
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_TC.res" 222
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_TC.res" 223
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_TK.res" 224
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_TK.res" 225
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_TO.res" 226
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_TO.res" 227
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_TT.res" 228
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_TT.res" 229
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_TV.res" 230
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_TV.res" 231
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_TZ.res" 232
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_TZ.res" 233
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_UG.res" 234
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_UG.res" 235
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_UM.res" 236
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\en_US.res" 237
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\en_US_POSIX.res" 238
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_US_POSIX.res" 239
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_VC.res" 240
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_VC.res" 241
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_VG.res" 242
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_VG.res" 243
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_VI.res" 244
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_VU.res" 245
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_VU.res" 246
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_WS.res" 247
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_WS.res" 248
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_ZA.res" 249
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_ZA.res" 250
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_ZM.res" 251
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_ZM.res" 252
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\en_ZW.res" 253
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\en_ZW.res" 254
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\es.res" 255
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es.res" 256
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es.res" 257
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_ES.res" 258
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_419.res" 259
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_AR.res" 260
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_AR.res" 261
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_BO.res" 262
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_BO.res" 263
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_CL.res" 264
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_CL.res" 265
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_CO.res" 266
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_CO.res" 267
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_CR.res" 268
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_CR.res" 269
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_CU.res" 270
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_CU.res" 271
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_DO.res" 272
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_DO.res" 273
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_EA.res" 274
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_EC.res" 275
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_EC.res" 276
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_GQ.res" 277
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_GT.res" 278
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_GT.res" 279
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_HN.res" 280
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_HN.res" 281
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_IC.res" 282
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_MX.res" 283
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_MX.res" 284
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_NI.res" 285
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_NI.res" 286
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_PA.res" 287
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_PA.res" 288
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_PE.res" 289
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_PE.res" 290
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_PH.res" 291
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_PH.res" 292
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_PR.res" 293
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_PR.res" 294
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_PY.res" 295
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_PY.res" 296
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_SV.res" 297
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_SV.res" 298
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_US.res" 299
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_US.res" 300
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_UY.res" 301
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_UY.res" 302
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\es_VE.res" 303
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\es_VE.res" 304
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\fr.res" 305
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr.res" 306
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr.res" 307
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_FR.res" 308
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_BE.res" 309
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_BF.res" 310
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_BI.res" 311
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_BI.res" 312
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_BJ.res" 313
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_BL.res" 314
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\fr_CA.res" 315
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_CA.res" 316
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_CA.res" 317
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_CD.res" 318
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_CD.res" 319
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_CF.res" 320
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_CG.res" 321
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_CH.res" 322
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_CH.res" 323
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_CI.res" 324
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_CM.res" 325
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_DJ.res" 326
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_DJ.res" 327
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_DZ.res" 328
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_DZ.res" 329
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_GA.res" 330
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_GF.res" 331
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_GN.res" 332
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_GN.res" 333
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_GP.res" 334
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_GQ.res" 335
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_HT.res" 336
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_HT.res" 337
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_KM.res" 338
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_KM.res" 339
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_LU.res" 340
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_LU.res" 341
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_MA.res" 342
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_MC.res" 343
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_MF.res" 344
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_MG.res" 345
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_MG.res" 346
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_ML.res" 347
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_MQ.res" 348
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_MR.res" 349
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_MR.res" 350
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_MU.res" 351
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_MU.res" 352
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_NC.res" 353
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_NE.res" 354
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_PF.res" 355
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_PM.res" 356
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_RE.res" 357
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_RW.res" 358
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_RW.res" 359
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_SC.res" 360
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_SC.res" 361
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_SN.res" 362
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_SY.res" 363
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_SY.res" 364
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_TD.res" 365
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_TG.res" 366
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_TN.res" 367
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_TN.res" 368
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_VU.res" 369
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\fr_VU.res" 370
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_WF.res" 371
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\fr_YT.res" 372
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\hi.res" 373
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\hi.res" 374
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\hi.res" 375
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\hi_IN.res" 376
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\it.res" 377
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\it.res" 378
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\it.res" 379
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\it_IT.res" 380
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\it_CH.res" 381
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\it_CH.res" 382
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\it_SM.res" 383
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\ja.res" 384
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ja.res" 385
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ja.res" 386
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ja_JP.res" 387
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ja_JP.res" 388
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\ko.res" 389
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ko.res" 390
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ko.res" 391
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ko_KR.res" 392
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ko_KP.res" 393
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\leet.res" 394
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\leet.res" 395
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\leet.res" 396
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\pl.res" 397
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pl.res" 398
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pl.res" 399
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pl_PL.res" 400
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\pt.res" 401
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt.res" 402
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt.res" 403
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_BR.res" 404
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_AO.res" 405
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_PT.res" 406
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_AO.res" 407
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_PT.res" 408
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_CV.res" 409
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_CV.res" 410
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_GW.res" 411
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_GW.res" 412
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_MO.res" 413
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_MO.res" 414
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_MZ.res" 415
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_MZ.res" 416
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_ST.res" 417
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_ST.res" 418
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\pt_TL.res" 419
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\pt_TL.res" 420
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\ru.res" 421
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ru.res" 422
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ru.res" 423
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ru_RU.res" 424
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ru_BY.res" 425
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ru_BY.res" 426
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ru_KG.res" 427
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ru_KG.res" 428
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ru_KZ.res" 429
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ru_KZ.res" 430
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ru_MD.res" 431
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\ru_MD.res" 432
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\ru_UA.res" 433
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\sv.res" 434
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\sv.res" 435
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\sv.res" 436
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\sv_SE.res" 437
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\sv_AX.res" 438
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\sv_FI.res" 439
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh.res" 440
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh.res" 441
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh.res" 442
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_CN.res" 443
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hans_CN.res" 444
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hans.res" 445
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh_Hans.res" 446
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hans.res" 447
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh_Hans_CN.res" 448
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hans_CN.res" 449
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hans_HK.res" 450
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hans_HK.res" 451
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hans_MO.res" 452
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hans_MO.res" 453
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh_Hans_SG.res" 454
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hans_SG.res" 455
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hans_SG.res" 456
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_SG.res" 457
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh_Hant.res" 458
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hant.res" 459
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hant.res" 460
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_TW.res" 461
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hant_TW.res" 462
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh_Hant_HK.res" 463
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hant_HK.res" 464
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hant_HK.res" 465
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_HK.res" 466
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh_Hant_MO.res" 467
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_Hant_MO.res" 468
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hant_MO.res" 469
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\zh_MO.res" 470
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\coll\zh_Hant_TW.res" 471
+"..\..\..\Engine\Content\Localization\ICU\icudt53l\curr\zh_Hant_TW.res" 472
+"../../../Engine/Config/Base.ini" 473
+"../../../Engine/Config/BaseEngine.ini" 474
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Config/DefaultEngine.ini" 475
+"../../../Engine/Config/Windows/WindowsEngine.ini" 476
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/Engine.ini" 477
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/Engine.ini" 478
+"../../../Engine/Config/BaseGame.ini" 479
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Config/DefaultGame.ini" 480
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/Game.ini" 481
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/Game.ini" 482
+"../../../Engine/Config/BaseInput.ini" 483
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Config/DefaultInput.ini" 484
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/Input.ini" 485
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/Input.ini" 486
+"../../../Engine/Config/BaseEditor.ini" 487
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Config/DefaultEditor.ini" 488
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/Editor.ini" 489
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/Editor.ini" 490
+"../../../Engine/Config/BaseEditorLayout.ini" 491
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/EditorLayout.ini" 492
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/EditorLayout.ini" 493
+"../../../Engine/Config/BaseEditorUserSettings.ini" 494
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/EditorUserSettings.ini" 495
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/EditorUserSettings.ini" 496
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 497
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/EditorKeyBindings.ini" 498
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/EditorKeyBindings.ini" 499
+"../../../Engine/Config/BaseCompat.ini" 500
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/Compat.ini" 501
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/Compat.ini" 502
+"../../../Engine/Config/BaseLightmass.ini" 503
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/Lightmass.ini" 504
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/Lightmass.ini" 505
+"../../../Engine/Config/BaseScalability.ini" 506
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/Scalability.ini" 507
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/Scalability.ini" 508
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/GameUserSettings.ini" 509
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/GameUserSettings.ini" 510
+"../../../Engine/Config/BaseDeviceProfiles.ini" 511
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/DeviceProfiles.ini" 512
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/DeviceProfiles.ini" 513
+"../../../Engine/Config/ConsoleVariables.ini" 514
+"C:/Program Files/Unreal Engine/4.5/Engine/Content/Localization/Editor/en/Editor.locres" 515
+"C:/Program Files/Unreal Engine/4.5/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 516
+"C:/Program Files/Unreal Engine/4.5/Engine/Content/Localization/Engine/en/Engine.locres" 517
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 518
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 519
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 520
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 521
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 522
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 523
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 524
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 525
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 526
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 527
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 528
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 529
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 530
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 531
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 532
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 533
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 534
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 535
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 536
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 537
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 538
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 539
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 540
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 541
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 542
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 543
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 544
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 545
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 546
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 547
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 548
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 549
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 550
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 551
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 552
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 553
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 554
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 555
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 556
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 557
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 558
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 559
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 560
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 561
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 562
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 563
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 564
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 565
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 566
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 567
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/MorpheusInclude.usf" 568
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 569
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 570
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 571
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 572
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 573
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 574
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 575
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 576
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 577
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 578
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 579
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 580
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 581
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 582
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 583
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 584
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 585
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 586
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 587
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 588
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 589
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 590
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 591
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 592
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 593
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 594
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 595
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 596
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 597
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 598
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 599
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 600
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 601
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 602
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 603
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 604
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 605
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 606
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 607
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 608
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 609
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 610
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 611
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 612
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 613
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 614
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 615
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 616
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 617
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 618
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 619
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 620
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 621
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 622
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 623
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 624
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 625
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 626
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 627
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 628
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 629
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 630
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 631
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 632
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 633
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 634
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 635
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 636
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 637
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 638
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 639
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 640
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 641
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 642
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 643
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 644
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 645
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 646
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 647
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 648
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 649
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 650
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 651
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 652
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 653
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 654
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 655
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 656
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 657
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 658
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 659
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 660
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 661
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 662
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 663
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 664
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 665
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 666
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 667
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 668
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 669
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 670
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 671
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 672
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 673
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 674
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 675
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 676
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 677
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 678
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 679
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 680
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 681
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 682
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 683
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 684
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 685
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 686
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 687
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 688
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 689
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 690
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 691
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 692
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 693
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 694
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 695
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 696
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 697
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 698
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 699
+"C:/Program Files/Unreal Engine/4.5/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 700
+"../../../Engine/Config/Android/AndroidEngine.ini" 701
+"../../../Engine/Config/IOS/IOSEngine.ini" 702
+"C:/Users/Dalton/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc" 703
+"../../../Engine/DerivedDataCache/DDC.ddp" 704
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 705
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 706
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 707
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 708
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 709
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 710
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 711
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 712
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 713
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 714
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 715
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 716
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 717
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 718
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 719
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 720
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 721
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 722
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 723
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 724
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 725
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 726
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 727
+"../../../Engine/Content/EngineResources/Black.uasset" 728
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 729
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 730
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 731
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 732
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 733
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 734
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 735
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 736
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 737
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 738
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 739
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 740
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 741
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 742
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 743
+"../../../Engine/Content/EngineSounds/Master.uasset" 744
+"../../../Engine/Content/EngineSounds/Music.uasset" 745
+"../../../Engine/Content/EngineSounds/SFX.uasset" 746
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 747
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 748
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 749
+"../../../Engine/Content/EngineSounds/Voice.uasset" 750
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 751
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 752
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 753
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 754
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 755
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 756
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 757
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 758
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 759
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/MyCharacter.uasset" 760
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/TervaAnimBP.uasset" 761
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Idle_Skeleton_BlendSpace1D.uasset" 762
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Idle_WalkAction.uasset" 763
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Idle_Skeleton.uasset" 764
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Run_Default_Take.uasset" 765
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 766
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Idle.uasset" 767
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Eye.uasset" 768
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Eye2.uasset" 769
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Hair.uasset" 770
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Pants.uasset" 771
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Shirt__Shirt_jpg.uasset" 772
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Shirt.uasset" 773
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Skin_0.uasset" 774
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Skin_02.uasset" 775
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Idle_PhysicsAsset.uasset" 776
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 777
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 778
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Frame_M.uasset" 779
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Frame_N.uasset" 780
+"C:/Users/Dalton/AppData/Local/UnrealEngine/4.5/Saved/Config/Windows/SourceControlSettings.ini" 781
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/CleanSourceConfigs/SourceControlSettings.ini" 782
+"C:/Users/Dalton/Documents/Unreal Projects/TARProject/Saved/Config/Windows/SourceControlSettings.ini" 783
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 784
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 785
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 786
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 787
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 788
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 789
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 790
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 791
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 792
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 793
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 794
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 795
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 796
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 797
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Intermediate/CachedAssetRegistry.bin" 798
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Maps/Level1Test_Map.umap" 799
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_500ADAFF4D62BABFAC46B7B963C9D__BE3135D7D81270C54DF753946F2B80357E961DD6.udd" 800
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_500ADAFF4D62BABFAC46B7B963C9D__6679346231784D69B9FF2C6C523829512276A05F.udd" 801
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_500ADAFF4D62BABFAC46B7B963C9D__D2DBC19F57F0AF56E8D44019F81E030907C80152.udd" 802
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_500ADAFF4D62BABFAC46B7B963C9D__AD6926A2C6F08AB6831B5EFFB9DFC7487D6575DB.udd" 803
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_500ADAFF4D62BABFAC46B7B963C9D__91FCA715D528531AE3F8EBB35E92E7CBEF1C385F.udd" 804
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_500ADAFF4D62BABFAC46B7B963C9D__0860794369AE519683296B907FD49DEE5A747C14.udd" 805
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 806
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 807
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 808
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 809
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 810
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 811
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 812
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 813
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 814
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 815
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 816
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 817
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 818
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 819
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 820
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 821
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 822
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 823
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 824
+"../../../Engine/Content/Maps/Entry.umap" 825
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 826
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/ScrapBot/ScrapBot.uasset" 827
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 828
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 829
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 830
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 831
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 832
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 833
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 834
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/ScrapBot/Scapbot.uasset" 835
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/ScrapBot/Scapbot_PhysicsAsset.uasset" 836
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/ScrapBot/Scapbot_Skeleton.uasset" 837
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 838
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 839
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 840
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 841
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 842
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 843
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 844
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 845
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 846
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/Apple_Collect.uasset" 847
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Trees_Level1/apple_udk.uasset" 848
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/P_Explosion.uasset" 849
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 850
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Burst_M.uasset" 851
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 852
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 853
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 854
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 855
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 856
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 857
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 858
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 859
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/DoorTeleport.uasset" 860
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Door.uasset" 861
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Glass.uasset" 862
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Door.uasset" 863
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Door_M.uasset" 864
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Door_N.uasset" 865
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 866
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/DoorTeleport_SideLeft.uasset" 867
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/DoorTeleport_SideRight.uasset" 868
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 869
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 870
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 871
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 872
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 873
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 874
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 875
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 876
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 877
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 878
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 879
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 880
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 881
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 882
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 883
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 884
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 885
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 886
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 887
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 888
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 889
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 890
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 891
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Trees_Level1/bg_tree_1_udk.uasset" 892
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Trees_Level1/bg_tree_2_udk.uasset" 893
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Trees_Level1/climb_trees_udk.uasset" 894
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Fog_Test.uasset" 895
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/P_Fire.uasset" 896
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 897
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 898
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 899
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 900
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Water_N.uasset" 901
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 902
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Bush.uasset" 903
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 904
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Bush_D.uasset" 905
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Bush_N.uasset" 906
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Couch.uasset" 907
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 908
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Chair_M.uasset" 909
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Chair_N.uasset" 910
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Rock.uasset" 911
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 912
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 913
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 914
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 915
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 916
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_TableRound.uasset" 917
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 918
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 919
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 920
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 921
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/4/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM5_2__BC5N_BMSIN_DEV_SL_NODBUFF1__E2EE6889BCB46AA9277C5D9F60E62BA142DFC341.udd" 922
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/1/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM4_2__BC5N_BMSIN_DEV_SL_NODBUFF1__290A206E3D5BE3DA0222073415D3AD6D4A41AAA1.udd" 923
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM5_2__BC5N_BMSIN_DEV_SL_NODBUF5F__1BE130B3B8DC79BABD5FA6382BC4AC625311393E.udd" 924
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM4_2__BC5N_BMSIN_DEV_SL_NODBUF5F__F71F4079396D7C50F2CD56D87AB9EF8418C9B8CC.udd" 925
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_0DB5412B27AB480F844CC7F0BE5ABAFF_F6__8F1E5EE38C6B9A3ED2881860FC5C194B981A2366.udd" 926
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_52DCC15547350__17543C94872CEAB3F5CA6C4675E75B474E234818.udd" 927
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_0DB5412B27AB480F844CC7F0BE5ABAFF_32__6BCB218A707FA81B50FD4BE2E4E1CD29BE1CAB57.udd" 928
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9B0568D04061514F54C842ABD408F__17E98169D94DB18F24C63378E5F606F75C3F9D6E.udd" 929
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_8FCDB50C44A7B871AD529FA2738BC__F6715A176890AB7F310F4C850B4087BDBD8DA99A.udd" 930
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_8FCDB50C44A7B871AD529FA2738BC__8AC17A4C2F47DBFDBFD6BDBE2BAE5EFF3A335417.udd" 931
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9B0568D04061514F54C842ABD408F__0C2D4CF6324CC862E3D4D86251AB7B425822A33B.udd" 932
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B13A9F9F421C7__A99E2245F02A45040F3F006BEEE7671A66A66CCC.udd" 933
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9AA098A24A33D5D548CF828303F48__1C88655D969CDAA1525438AEFBCA9BD29E00E187.udd" 934
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9AA098A24A33D5D548CF828303F48__EC3CD8C5046754426186A47A3C689C5CA8C4AB6C.udd" 935
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_0DB5412B27AB480F844CC7F0BE5ABAFF_DC__7CB20100DC213171DEE735609ECC18BDF169EA6E.udd" 936
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_8FCDB50C44A7B871AD529FA2738BC__8EA9B91B040F557598969375FD983FBFD3602853.udd" 937
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9B0568D04061514F54C842ABD408F__B3DDD2001123611E4CC8FC85B26B3C0AE831AC9D.udd" 938
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6C7C13F842986__3F1A4360F749A533FE5838541D3B996A31C0575B.udd" 939
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9AA098A24A33D5D548CF828303F48__6DE212D6B288B13E3B4348B650C31934C9F647F9.udd" 940
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_8FCDB50C44A7B871AD529FA2738BC__AC345F11EC7C5192A222F0D6E95D4AFAF3CBB709.udd" 941
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9B0568D04061514F54C842ABD408F__ACA9F9CD971216C3BDC1AC12ACEA261F3A410348.udd" 942
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_8FCDB50C44A7B871AD529FA2738BC__1FB8F59F905E7D4CDDB214990064A46705C67790.udd" 943
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_0DB5412B27AB480F844CC7F0BE5ABAFF_5C__76D8A515B8B7D537ECCFACEB22C5E6495605F427.udd" 944
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_949878A442148FD0326576BB924C7__5C1419648B90AA0B93BF9C444EC3EB995B23EE0C.udd" 945
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_B15B8A6845AA914EAA58098E9E4B3D6F__D27CF98D459A83B93A42C055D3313437743006AC.udd" 946
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_949878A442148FD0326576BB924C7__7E38DC8B4523BBC0B9AEADF16A1BA1E380F8B163.udd" 947
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_8406A6B04010E__30A24F3FAFB37030C5C3853DFAF12CC28BA7B8A7.udd" 948
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_B15B8A6845AA914EAA58098E9E4B3D6F__24194DA472A3C56B5683834EC77C89FB7D54F034.udd" 949
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_B15B8A6845AA914EAA58098E9E4B3D6F__9E8A56972706A5BBB6D3BA7AF1C94761C240C54E.udd" 950
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_47FF2E1D47FE5A329C9CFB8369605__389CD992AE570D2A499C34969DC1D8A69BED8F0E.udd" 951
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_949878A442148FD0326576BB924C7__1E101DD913033047602C4B9E062B96A316418DD3.udd" 952
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_8AB074FE4B37AF084AECC799D3C3B2C0__503BC15624FE0E00A7CBC0C7F0DE6E3E415A3299.udd" 953
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_123292A6456125BF377A0AB6EA3AE107__6BBF987990DBBE7494100C391B11F362DFBCA0E6.udd" 954
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_B15B8A6845AA914EAA58098E9E4B3D6F__6A629B9687C6B41012F10E434B86CCD4EDFB8273.udd" 955
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_123292A6456125BF377A0AB6EA3AE107__50526224C40EAAB9AC0427A41C70ED00BAC104DB.udd" 956
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_B15B8A6845AA914EAA58098E9E4B3D6F__D9E731231DADEF0BC4272F95BEEDE9A353295408.udd" 957
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_8AB074FE4B37AF084AECC799D3C3B2C0__8CA037C16F3D88BC794A07BD740409EF38A443FA.udd" 958
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_123292A6456125BF377A0AB6EA3AE107__FE86F2FC381BBE191FD2FC304B2B4A8B1FBE0A67.udd" 959
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_D6BB643C4D2AA65BB5E4029EE8FF36D5__A5AB655388986FDFBC2BD2EE5D36A3E0F0BDFB01.udd" 960
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_D6BB643C4D2AA65BB5E4029EE8FF36D5__0A8E4CD34FD9E7EE3B2BB24B9C590A60CCD85B04.udd" 961
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_443EA25C4425A9E2AAFD59AC561D5B51__2CBA9D1C8A1927962F4B84E948DD5029489AEBE5.udd" 962
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_8AB074FE4B37AF084AECC799D3C3B2C0__66F9649B5EAB41EC4C09B3511C3EB1A31A6AA893.udd" 963
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_172E333C414E333426A1C4AD2F2B2D2__C98A5214862F0259D96E2D4FF27DDA2FDFB206DF.udd" 964
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_8AB074FE4B37AF084AECC799D3C3B2C0__85B06AA5CB142E2A7971EA79FE5C730AEFDAF7ED.udd" 965
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_15C591CB4876BF5F5B15D798CA7613A__04A4D95FA335498EFB7A8D2B9C6EF3DEB0F8406B.udd" 966
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_D6BB643C4D2AA65BB5E4029EE8FF36D5__2196255A5B2E764109EBFDA0AE0D43DA9CCCD806.udd" 967
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_172E333C414E333426A1C4AD2F2B2D2__E1425F34DE646039BD9538076A1050769ECA8446.udd" 968
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_15C591CB4876BF5F5B15D798CA7613A__85D7790E7D3C14C9A41DE2E3B969374FC1444D6A.udd" 969
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_F6DEAB27440F8F20A7D92BB50FD8AA5__3146B7D35518B0311D4B51A20E3715670113C5A6.udd" 970
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_F6DEAB27440F8F20A7D92BB50FD8AA5__16FBF0E860C96FF9253B584EED1093693FDAF23C.udd" 971
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4E4122FA4C3D90663B269EB148BB06B6__1_0_13073_0.udd" 972
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_172E333C414E333426A1C4AD2F2B2D2__D74EA6A2E49FB5ED1D7A249C24ED0EF6289C7732.udd" 973
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_F6DEAB27440F8F20A7D92BB50FD8AA5__E610B0DFD7B9EDA4BA873D8EFD88B9455E474E9F.udd" 974
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_15C591CB4876BF5F5B15D798CA7613A__2DF63BE996CAA3F2DB6282D48354EF72520DF03C.udd" 975
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_A1BD64E9462D06CA85B4C09A69A0AD2__BFDC9B1C9995B45B79B8C607BF648F30F6730821.udd" 976
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_A1BD64E9462D06CA85B4C09A69A0AD2__15D438D59A372BAF13477C40D78530F2448BFD57.udd" 977
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_15C591CB4876BF5F5B15D798CA7613A__13966A16342A940D82AE06800B67D0F3B575A35C.udd" 978
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E9DE8E154ACA284FE6FE83941C38F3F1__1_0_13073_0.udd" 979
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_172E333C414E333426A1C4AD2F2B2D2__1A1BE043AF848780001725E4EB3330E94D1DDD2B.udd" 980
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_172E333C414E333426A1C4AD2F2B2D2__7A7F875965D9B9B753C41622F2FF4FAF0752524A.udd" 981
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_EAD9445B4275F5CAD034F093D953D42__8481C0A903FC67561DD06A3C8F72524B18A71883.udd" 982
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_A1BD64E9462D06CA85B4C09A69A0AD2__87DAC626058375C8CE106FDC63C5C6E22C485639.udd" 983
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_623266C4402FCF4394CECFA42DFEECE7__1_0_13073_0.udd" 984
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_5AB16C56484D9080BF5E0EB0B181B7AF__1_0_13073_0.udd" 985
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F3E3002B4AE4C593686772A57C28506E__1_0_13073_0.udd" 986
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BFBED02942C97F65D65D69B0E04D6B51__1_0_13073_0.udd" 987
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B3BCD73B498199D644B25284033F4481__1_0_13073_0.udd" 988
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2C9FD45040181C5E3D0F9185CB5DE256__1_0_13073_0.udd" 989
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D1153C3E4107F7CB24D29882EAA8E569__1_0_13073_0.udd" 990
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6A7D7EBC4818733A6E11088329DEFD5C__1_0_13073_0.udd" 991
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E0B9391F4B3D6B7B6486A2A804990B6A__1_0_13073_0.udd" 992
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_9C401A75463A00BC2C9E60BB2328E103__1_0_13073_0.udd" 993
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_7A6167FC45E7B179C4C79DBC644E3682__1_0_13073_0.udd" 994
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_9F66F54C4FAEC2F60F8F3A930B1EDBC9__1_0_13073_0.udd" 995
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_22337AB44AAFEF1C230E2190ACEF662E__1_0_13073_0.udd" 996
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_C535DF25425F7B54DE2EB1841FA4D9AF__1_0_13073_0.udd" 997
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_864045FD4A60709224AA4D9EC12E4725__1_0_13073_0.udd" 998
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/StarterMap.umap" 999
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1000
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1001
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1002
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 1003
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 1004
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1005
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 1006
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Fire01.uasset" 1007
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1008
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1009
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Smoke01.uasset" 1010
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/P_Smoke.uasset" 1011
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1012
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1013
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1014
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/P_Sparks.uasset" 1015
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1016
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 1017
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1018
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 1019
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Steam01.uasset" 1020
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1021
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1022
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1023
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1024
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1025
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1026
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1027
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1028
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1029
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1030
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1031
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1032
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1033
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1034
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1035
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1036
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1037
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1038
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1039
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1040
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1041
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1042
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1043
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1044
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1045
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1046
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1047
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1048
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1049
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1050
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1051
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1052
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1053
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1054
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1055
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1056
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1057
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1058
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1059
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1060
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1061
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1062
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1063
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1064
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1065
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1066
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1067
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1068
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1069
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1070
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1071
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1072
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1073
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1074
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1075
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1076
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1077
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1078
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1079
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1080
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1081
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1082
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1083
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1084
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1085
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1086
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1087
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1088
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1089
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1090
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1091
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1092
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1093
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1094
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1095
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1096
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1097
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1098
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1099
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 1100
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1101
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Water_M.uasset" 1102
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1103
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1104
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1105
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1106
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1107
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1108
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1109
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1110
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 1111
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1112
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 1113
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1114
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1115
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1116
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 1117
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Collapse01.uasset" 1118
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Collapse02.uasset" 1119
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1120
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 1121
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 1122
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 1123
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1124
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Starter_Music01.uasset" 1125
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1126
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1127
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1128
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/MaterialSphere.uasset" 1129
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Chair.uasset" 1130
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 1131
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 1132
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1133
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Statue.uasset" 1134
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 1135
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Statue_M.uasset" 1136
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Statue_N.uasset" 1137
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1138
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 1139
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1140
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1141
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM5_2__BC5N_BMSIN_DEV_SL_NODBUF76__9A285F75C99F4DE25EEBE24B0345C5FAD963C34A.udd" 1142
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/7/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM4_2__BC5N_BMSIN_DEV_SL_NODBUF76__8DC23518449B1D8A07183918E539D30DBB6D9129.udd" 1143
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1144
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 1145
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Minimal_Default.umap" 1146
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Advanced_Lighting.umap" 1147
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1148
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1149
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1150
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1151
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1152
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1153
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1154
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1155
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1156
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1157
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1158
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1159
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1160
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1161
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1162
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1163
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1164
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1165
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1166
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1167
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1168
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1169
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Maps/Test_Map.umap" 1170
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/MyGame.uasset" 1171
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6A51715B465D40F057055F8D5A51C__5B1CB4E8CB9A1898D6715A5F1933D4ABF34D4443.udd" 1172
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_667F123A4C18C7B5618FE2AF41870__CA998CEE30DBBBA03E8614ABEB34677FB2727BF0.udd" 1173
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6A51715B465D40F057055F8D5A51C__71541574291B9E15D8C837ABDF338FBC3615785A.udd" 1174
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5CA37CC74B2BF24809F7B382A4CF3__30B4262520A370A85C4AED5699A43411E4E6DD44.udd" 1175
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_667F123A4C18C7B5618FE2AF41870__26C60D8D3C15B07ED66D50E9F696405684B8CE31.udd" 1176
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6158E2324C0B8F962A7D5C8DB79103BC__1_0_13073_0.udd" 1177
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6A51715B465D40F057055F8D5A51C__5E6A961CBA700EE9F26C16B1EA5AAA8A70B30D26.udd" 1178
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5CA37CC74B2BF24809F7B382A4CF3__21BE534181B5D98C959730711B8AA958814C940F.udd" 1179
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F87A52D542F7278635D7CCB75BCFE625__1_0_13073_0.udd" 1180
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_667F123A4C18C7B5618FE2AF41870__2623349674C53DE367A4E10F71A05EFA2CD43991.udd" 1181
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_939D22434E2CB4645411A59AC8EB5F08__1_0_13073_0.udd" 1182
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5CA37CC74B2BF24809F7B382A4CF3__292DABC17B9FDC96D37D735AB731DECCC2A5411A.udd" 1183
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6A51715B465D40F057055F8D5A51C__BE53F4524E21A16C31A8997029E162E8A52D499E.udd" 1184
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6A51715B465D40F057055F8D5A51C__6A1EBD8901C2C2EDC41B5EDEF3AAE66E9B3207AF.udd" 1185
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_5D102A3D482C3A93C420F6A0324A1445__1_0_13073_0.udd" 1186
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5CA37CC74B2BF24809F7B382A4CF3__CD6C81E07F284FF7E92FE663C11BFA2A3DDCE126.udd" 1187
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_7DEAC48C46161FA25ECA709AC90C1D45__1_0_13073_0.udd" 1188
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_97E259DF424771BAC7FD96B25658241C__1_0_13073_0.udd" 1189
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0D0B1CD344C093CD4B0EED8A33BDC__5C84AA8BC9A09FDEA5EF769B610F576674A38A61.udd" 1190
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_2FD04025455CF74EDA1D8FB51EE6FE82__EFCF0E9CAC0CB85FB39020FA206F1F6D96D8DB72.udd" 1191
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5CA37CC74B2BF24809F7B382A4CF3__D1243B33D10394CA50A001C704364BAF8058502B.udd" 1192
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_C208075E4F8AA2A4B22DDBA613FFBF6C__5137525CA6BFB2CD6AC4102B0ABBE2872AC0F335.udd" 1193
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_C208075E4F8AA2A4B22DDBA613FFBF6C__3FE2B60297EE0559723AC3E022441F8EA7A9FE3B.udd" 1194
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_2FD04025455CF74EDA1D8FB51EE6FE82__708E3B529541004556EAFEF92129A0BF844279EC.udd" 1195
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_85D1C7C34D9899A3E8DDF99116AB098C__1_0_13073_0.udd" 1196
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4558313646FBDAC0730AADA50B5A3F02__1_0_13073_0.udd" 1197
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_C208075E4F8AA2A4B22DDBA613FFBF6C__09DF5A45FBF40955B047495FFF226D8D3616CC76.udd" 1198
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_2FD04025455CF74EDA1D8FB51EE6FE82__0D759CE0094D5FCAA327D401254D7A819F616A2C.udd" 1199
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_5FE4A13941085ABB62487E897532087A__D7CCFC1E742A13A7AC8BD31BA98743FC810BD34A.udd" 1200
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_267333B84075162215F76288EA9BC324__A9557103AF0D9DAC90ACAC78473706E1CDBE4BE5.udd" 1201
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6FB89E124B10729BDB2CF3B28CA705F0__1_0_13073_0.udd" 1202
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_687AEADC43B4AFE9DC8EC1A4CE41FB1__14B22C5D884D58A8DEA3FA7268E8587D129C5C3C.udd" 1203
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6398B5DF44B14F1517B49281C3DA70AA__1_0_13073_0.udd" 1204
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6460229947914F0C6611E8BBF5C0D6D7__1_0_13073_0.udd" 1205
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_267333B84075162215F76288EA9BC324__3F0CE21A3D02D8C7F51774470F4FB04DA8CD62C6.udd" 1206
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_687AEADC43B4AFE9DC8EC1A4CE41FB1__29BAADB2868E964846D4EA4C898783A031AA97C3.udd" 1207
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F6836184422694FD87D209A06692A756__1_0_13073_0.udd" 1208
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_267333B84075162215F76288EA9BC324__695B6F06978DFA10606E03FF881137381D18338B.udd" 1209
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_2FD04025455CF74EDA1D8FB51EE6FE82__BD62DAEAA794987D18C454C9F68329C49809AF3C.udd" 1210
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_2FD04025455CF74EDA1D8FB51EE6FE82__6129AF3D24090DD685EFB58F570E01E591D6795E.udd" 1211
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_267333B84075162215F76288EA9BC324__C7FC5ECD7C0CC34AE37A2203EB721878709B6C3C.udd" 1212
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_267333B84075162215F76288EA9BC324__5A426C08D34E12AE820514672E9633EA10578C39.udd" 1213
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_64DED32C423335D4A04A1EBC5BC36F7A__1_0_13073_0.udd" 1214
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_E43E82E446AE3C1892A28BB87885624__BB301A948BCB7739A6DCCB54541969E00DF2E346.udd" 1215
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_7ABD4DD54671FD1C8D875CB648A03FF__57EC232332AC47DAAD74B19C23EC4398CC92558D.udd" 1216
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_E43E82E446AE3C1892A28BB87885624__6649E13DFD614FCDF51946D00239C0B8983A1F59.udd" 1217
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_7EA16BA444A95956DCE5CFA7281EADCB__1_0_13073_0.udd" 1218
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_E43E82E446AE3C1892A28BB87885624__E9FEDCB5521BEE3F64013A910725F5497EECACC3.udd" 1219
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_687AEADC43B4AFE9DC8EC1A4CE41FB1__B8C165053969AD7D69076612A97810EAE1FF9AB8.udd" 1220
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_687AEADC43B4AFE9DC8EC1A4CE41FB1__4A8F1390D7C61BF7DCE08D2A475701D7D9A715B9.udd" 1221
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_687AEADC43B4AFE9DC8EC1A4CE41FB1__269BF1E9ECD0C8A75103DA4F19A8D94694E163BA.udd" 1222
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_35B0C5C74FD28092BAA2AC9525D1AA42__1_0_13073_0.udd" 1223
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_63DCFD7A420646814605978FBA7B4FE1__1_0_13073_0.udd" 1224
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_687AEADC43B4AFE9DC8EC1A4CE41FB1__C139840021EA2D328B314C8DF6494A1E2E41FD15.udd" 1225
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2B4C20F14FD33DA2423E4E971B0FE87A__1_0_13073_0.udd" 1226
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E691E9464F6F3E9EB045BA9BB2E8B3AD__1_0_13073_0.udd" 1227
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4BD35D674F489551DC897FAD60F6B10B__1_0_13073_0.udd" 1228
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F4E91A944BF0BCCEB1776996C1FE6C83__1_0_13073_0.udd" 1229
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Maps/Example_Map.umap" 1230
+"../../../Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset" 1231
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 1232
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray.uasset" 1233
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1234
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 1235
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 1236
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4DFFC9BC48C5282E424CF9A6A69FF__658D0AD793777FF7CF0194EC2873DF0AF1DFDCF6.udd" 1237
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A2243E05424ED91FA762729AA382A__B8511FA6C1F96E8739884B381484F2FFD2423D0F.udd" 1238
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_294BA5DF472895319161999655C52DD2__E71D7D378EA9A64BE996076FCFBEE49E159D14D3.udd" 1239
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_FF10F46748E2D183E38ADCAEDA20B0F9__18123DE081B9AA717080DB4536544698728CB59F.udd" 1240
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_D2EE622C48239E767AB57C848C79F05__48635DAA298589D0EE209C43FD10CCAA75E0734B.udd" 1241
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A2243E05424ED91FA762729AA382A__D7F763A07FC090984E6153608340B7F4076C4D26.udd" 1242
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_FF10F46748E2D183E38ADCAEDA20B0F9__0F63E486682F4C36D6ECE0B016B12596F66404F9.udd" 1243
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_6C57125C48A92CA56B7367BBFFC107D__9A813AB2262C45DD1737E2A283A82A9BBE532A27.udd" 1244
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_FF10F46748E2D183E38ADCAEDA20B0F9__3506DE47FF33D00BAF19E0ACB4C8D0CB3313894A.udd" 1245
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A2243E05424ED91FA762729AA382A__4D2D8D712A7D25497F80799ECEC854DC5E550BB6.udd" 1246
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_6C57125C48A92CA56B7367BBFFC107D__AC8FFBD1E8EE2D929ADC988E58B36EF351068BF7.udd" 1247
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_FF10F46748E2D183E38ADCAEDA20B0F9__803548B0901C5C9A834E6BC9E89024D5CBE77E30.udd" 1248
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A2243E05424ED91FA762729AA382A__5DB5D08E6FC8096AAA1C7E7998447BF6FB943E21.udd" 1249
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_6C57125C48A92CA56B7367BBFFC107D__93DF4B31BEA3D0D0EB982704DEA92F51D6FCA290.udd" 1250
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_FF10F46748E2D183E38ADCAEDA20B0F9__491ED639C6CB2DE904272B34455DCF70986A527B.udd" 1251
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A2243E05424ED91FA762729AA382A__D4124C6C15292E037887D86DE112F2D1F7B45608.udd" 1252
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_6C57125C48A92CA56B7367BBFFC107D__E25DC5C5ED0FB66494B64866DF8DCF925602C9F7.udd" 1253
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D0D02D804E4D1F7DBFB639998EEABA7C__1_0_13073_0.udd" 1254
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_6C57125C48A92CA56B7367BBFFC107D__01E66A12AF9231B7E5E8A7B672FF4BB05C15C0D6.udd" 1255
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_10FA8A714CE40559AFC2629E9AB1E5DE__1_0_13073_0.udd" 1256
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_96B548AF450CA2622F98039099F77162__1_0_13073_0.udd" 1257
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_81002F484EE62740C37E2DA1B39DAA42__1_0_13073_0.udd" 1258
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_92D66BFE45FBDC5BDDC815BA5E3DFED1__1_0_13073_0.udd" 1259
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A7085DDE4EEC2C1518695C8BAEFABD9A__1_0_13073_0.udd" 1260
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_8C6E83834F57487128354D807EADC528__1_0_13073_0.udd" 1261
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_00AD260E4D0FA4F4E15FEBA6B1139BA3__1_0_13073_0.udd" 1262
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_DB91EF3740960D7DAD0ABB92A9D71027__1_0_13073_0.udd" 1263
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_CC268EB841DDF9506EEFD9BA0DC84010__1_0_13073_0.udd" 1264
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1F9F6E7F4E3169F8C81D16A4FA0BBF3B__1_0_13073_0.udd" 1265
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3A2969214677BFD1FC4E549CE228E810__1_0_13073_0.udd" 1266
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A7EE161D4E3B98D508CE06AC689CB977__1_0_13073_0.udd" 1267
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/REFL_ENC_96DFC022836B48889143E9DF484C3296_A5E2BC324F90658508B5239954345DAD.udd" 1268
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_A_S.uasset" 1269
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_A_N.uasset" 1270
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Wood_a_d.uasset" 1271
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_White_Painted_Metal_N.uasset" 1272
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_White_Painted_Metal_D.uasset" 1273
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_UNV_Concrete02_N.uasset" 1274
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_UNV_Concrete02.uasset" 1275
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Underground_Base_Pipe_N.uasset" 1276
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Underground_Base_Pipe_D.uasset" 1277
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Stone_Brick_N.uasset" 1278
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Stone_Brick_D.uasset" 1279
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Sky_Stars.uasset" 1280
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Sky_Clouds_M.uasset" 1281
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 1282
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 1283
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Detail_03_D.uasset" 1284
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Detail_02_N.uasset" 1285
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_Detail_02_D.uasset" 1286
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_11b_D.uasset" 1287
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_10_N.uasset" 1288
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_10_D.uasset" 1289
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_09_D.uasset" 1290
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_08_N.uasset" 1291
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_08_D.uasset" 1292
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_07_N.uasset" 1293
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_07_D.uasset" 1294
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_07b_D.uasset" 1295
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_06_N.uasset" 1296
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_06_D.uasset" 1297
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_05_N.uasset" 1298
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_05_D.uasset" 1299
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_03_N.uasset" 1300
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_03_D.uasset" 1301
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_01_N.uasset" 1302
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rock_01_D.uasset" 1303
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Rocky_01_N.uasset" 1304
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_PatchyGrass_N.uasset" 1305
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_PatchyGrass_D.uasset" 1306
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Paint_Metal_Rust_N.uasset" 1307
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Paint_Metal_Rust_D.uasset" 1308
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_PaintedMetal01_N.uasset" 1309
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_PaintedMetal01.uasset" 1310
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Scuffed_N.uasset" 1311
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Scuffed_D.uasset" 1312
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Rust_01_N.uasset" 1313
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Rust_01_D.uasset" 1314
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Painted_04_N.uasset" 1315
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Painted_04_D.uasset" 1316
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Metal03_N.uasset" 1317
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Metal03_D.uasset" 1318
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Metal01_N.uasset" 1319
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Metal01_D.uasset" 1320
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_N.uasset" 1321
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_E.uasset" 1322
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Noise_N.uasset" 1323
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Dirt_N.uasset" 1324
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Dirt_D.uasset" 1325
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_Detail_N.uasset" 1326
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_02_N.uasset" 1327
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_02_D.uasset" 1328
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_01_N.uasset" 1329
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Ground_01_D.uasset" 1330
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Gravel_N.uasset" 1331
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Gravel_D.uasset" 1332
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_07_N.uasset" 1333
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_07.uasset" 1334
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_06_N.uasset" 1335
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base_06.uasset" 1336
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base04_N.uasset" 1337
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base04_D.uasset" 1338
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base02_N.uasset" 1339
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Generic_Concrete_Base02.uasset" 1340
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Dirt_N.uasset" 1341
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Dirt_D.uasset" 1342
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_DesertCrystal01_N.uasset" 1343
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Wall_N.uasset" 1344
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Wall_D.uasset" 1345
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Wall07_N.uasset" 1346
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Wall07.uasset" 1347
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_N.uasset" 1348
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Floor01_N.uasset" 1349
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_Floor01.uasset" 1350
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_D.uasset" 1351
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_01_N.uasset" 1352
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete_01_D.uasset" 1353
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete01_N.uasset" 1354
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Concrete01_D.uasset" 1355
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Cobble_01_H.uasset" 1356
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_04_R.uasset" 1357
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_04_N.uasset" 1358
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_04_D.uasset" 1359
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleStone_04b_D.uasset" 1360
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_CobbleDark_01_D.uasset" 1361
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Cliff_N.uasset" 1362
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Cliff_M.uasset" 1363
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Base_Metal_Gray_N.uasset" 1364
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Base_Metal_Gray_D.uasset" 1365
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Bark02_N.uasset" 1366
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_Bark02_D.uasset" 1367
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_ArmorMetal01_N.uasset" 1368
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/T_ArmorMetal01.uasset" 1369
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/Sky54a2048LDR.uasset" 1370
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/Sky54a2048.uasset" 1371
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/Metal_Tile_2_N.uasset" 1372
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Textures/Metal_Tile_2.uasset" 1373
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1374
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1375
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1376
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 1377
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1378
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1379
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1380
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 1381
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 1382
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 1383
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1384
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1385
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1386
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1387
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1388
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 1389
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1390
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1391
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1392
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Stairs.uasset" 1393
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_Shelf.uasset" 1394
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1395
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1396
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1397
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 1398
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Explosion01.uasset" 1399
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Explosion02.uasset" 1400
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Light02_Cue.uasset" 1401
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Light02.uasset" 1402
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Light01_Cue.uasset" 1403
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Audio/Light01.uasset" 1404
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1405
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1406
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 1407
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 1408
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 1409
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/SM_FloorPiece500x500.uasset" 1410
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/SM_CeilingPiece500x500.uasset" 1411
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1412
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Trees_Level1/influence_area.uasset" 1413
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM5_2__BC5N_BMSIN_DEV_SL_NODBUFC6__537D1701772E0BB82A4095B820391FA044AFE6FE.udd" 1414
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/7/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM4_2__BC5N_BMSIN_DEV_SL_NODBUFC6__116AFD4F7E01B3440976BCD639254274AAA4E1FE.udd" 1415
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Trees_Level1/Default_1.uasset" 1416
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/5/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM5_2__BC5N_BMSIN_DEV_SL_NODBUFF2__D0BA364A29BF1C501E2F8E760ECD3723A39F8852.udd" 1417
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/5/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_PCD3D_SM4_2__BC5N_BMSIN_DEV_SL_NODBUFF2__B7AD69ACB39064ABBCFF921D6B1C4AACCE8B3F19.udd" 1418
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Trees_Level1/climbable_trees_udk.uasset" 1419
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_0DB5412B27AB480F844CC7F0BE5ABAFF_7C__E8E05CF60684222F55BF42846C00D8A01C1FE0E6.udd" 1420
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6EEC43E847380__E54E35DAD1560D6C710A1933A255C898234097C1.udd" 1421
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/influence_area.uasset" 1422
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/Default_1.uasset" 1423
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Objects/climbable_trees_udk.uasset" 1424
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Timed_Idle_WalkAction.uasset" 1425
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Timed_Idle_Default_Take.uasset" 1426
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Run_ArmatureAction.uasset" 1427
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Jump_Skeleton.uasset" 1428
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Jump_PhysicsAsset.uasset" 1429
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Jump_Anim_Default_Take.uasset" 1430
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Jump_Anim_ArmatureAction_001.uasset" 1431
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Jump.uasset" 1432
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/Terva/Terva_Idle_Default_Take.uasset" 1433
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/ScrapBot/Scapbot_Anim.uasset" 1434
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/IdleRun_TPP.uasset" 1435
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Animations/Idle.uasset" 1436
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/HeroTPP_Skeleton.uasset" 1437
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Animations/Run.uasset" 1438
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Animations/Walk.uasset" 1439
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/HeroTPP_AnimBlueprint.uasset" 1440
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Animations/Jump_End.uasset" 1441
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Animations/Jump_Loop.uasset" 1442
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Animations/Jump_Start.uasset" 1443
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Character/HeroTPP.uasset" 1444
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/ScrapMove.uasset" 1445
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/ProjectileMesh.uasset" 1446
+"C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_CC2C8D4644F50__BEDDAA4D47DC0C11EABF565AD4AE07F4C9751D1A.udd" 1447
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/Projectile.uasset" 1448
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/MyCharacter2.uasset" 1449
+"../../../../../../Users/Dalton/Documents/Unreal Projects/TARProject/Content/Blueprints/MaterialSphere.uasset" 1450
